@@ -1,4 +1,6 @@
 {
+  "ec2InstanceName": "jump-london-yellow.stone-ld-ond",
   "privateIPKEY": "10.180.71.39",
-  "userNameKey": "username"
+  "secretNameKEY": "jump-yellow.stone-ppk-key-secret-ld",
+  "userNameKey": "yellow.stone"
 }
