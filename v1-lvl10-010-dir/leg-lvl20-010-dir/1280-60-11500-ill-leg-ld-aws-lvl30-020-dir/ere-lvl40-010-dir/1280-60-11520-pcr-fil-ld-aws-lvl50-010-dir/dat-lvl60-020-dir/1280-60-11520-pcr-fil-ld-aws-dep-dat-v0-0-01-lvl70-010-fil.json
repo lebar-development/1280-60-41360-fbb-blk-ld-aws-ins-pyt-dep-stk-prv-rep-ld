@@ -1,4 +1,6 @@
 {
-  "User": "SHA256:/Mdj4Sk9JiSYhCwMZlP4JueUwKIVa6OY9IowKvDWSHo",
-  "IdentityFile": "~/.ssh/jump-github-yellow.stone-1280-60-ld"
+  "resourceMetadataKEY": "yes",
+  "ec2InstanceNameKEY": "jump-london-yellow.stone-ld-ond",
+  "ec2InstanceIDKEY": "i-018a5e98aa8e33e74",
+  "privateIPAddressKEY": "10.180.71.39"
 }
