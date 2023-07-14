@@ -1,5 +1,3 @@
 {
-  "resourceMetadataKEY": "yes",
-  "secretNameKEY": "jump-yellow.stone-pem-key-secret-ld",
-  "userNameKEY": "yellow.stone",
+  "resourceMetadataKEY": "no"
 }
