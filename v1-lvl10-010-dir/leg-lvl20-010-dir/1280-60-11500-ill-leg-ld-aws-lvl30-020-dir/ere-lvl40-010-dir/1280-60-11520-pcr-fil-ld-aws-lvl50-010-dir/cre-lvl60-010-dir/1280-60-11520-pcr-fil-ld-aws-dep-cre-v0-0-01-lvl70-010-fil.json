@@ -1,5 +1,5 @@
 {
-  "ec2InstanceName": "jump-london-yellow.stone-ld-ond",
-  "privateIPKEY": "10.180.71.39",
-  "secretNameKEY": "jump-dayjackel-ppk-key-secret-ld"
+  "resourceMetadataKEY": "yes",
+  "secretNameKEY": "jump-yellow.stone-pem-key-secret-ld",
+  "userNameKEY": "yellow.stone",
 }
